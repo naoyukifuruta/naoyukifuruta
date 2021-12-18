@@ -18,10 +18,12 @@ Here are some ideas to get you started:
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nfrutta&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
+<!--
 <p>
   <img alt="Readme Card" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=nfrutta&repo=xamarin-samples&show_owner=true" />
   <img alt="Readme Card" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=nfrutta&repo=flutter-samples&show_owner=true" />
 </p>
+-->
 
 <p align="left"> 
   <a href="https://github.com/nfrutta/nfrutta/">
