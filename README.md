@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
+<!--
 <p align="left"> 
   <a href="https://github.com/nfrutta/nfrutta/">
     <img src="https://komarev.com/ghpvc/?username=nfrutta" alt="nfrutta" />
@@ -33,5 +34,6 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/github/followers/nfrutta?label=follow&logo=github&style=flat" />
   </a>
 </p>
+-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
