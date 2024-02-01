@@ -15,23 +15,23 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfrutta&layout=compact&count_private=true&show_icons=true&show_icons=true&langs_count=8&hide=javascript,html" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nfrutta&count_private=true&show_icons=true&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=naoyukifuruta&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
 <!--
 <p>
-  <img alt="Readme Card" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=nfrutta&repo=xamarin-samples&show_owner=true" />
-  <img alt="Readme Card" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=nfrutta&repo=flutter-samples&show_owner=true" />
+  <img alt="Readme Card" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=naoyukifuruta&repo=xamarin-samples&show_owner=true" />
+  <img alt="Readme Card" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=naoyukifuruta&repo=flutter-samples&show_owner=true" />
 </p>
 -->
 
 <!--
 <p align="left"> 
-  <a href="https://github.com/nfrutta/nfrutta/">
-    <img src="https://komarev.com/ghpvc/?username=nfrutta" alt="nfrutta" />
+  <a href="https://github.com/naoyukifuruta/naoyukifuruta/">
+    <img src="https://komarev.com/ghpvc/?username=naoyukifuruta" alt="naoyukifuruta" />
   </a>
-  <a href="https://github.com/nfrutta">
-    <img height="20" src="https://img.shields.io/github/followers/nfrutta?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/naoyukifuruta">
+    <img height="20" src="https://img.shields.io/github/followers/naoyukifuruta?label=follow&logo=github&style=flat" />
   </a>
 </p>
 -->
