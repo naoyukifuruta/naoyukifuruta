@@ -1,5 +1,5 @@
 <!--
-**nfrutta/nfrutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**naoyukifuruta/naoyukifuruta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfrutta&layout=compact&count_private=true&show_icons=true&show_icons=true&langs_count=8&hide=javascript,html" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoyukifuruta&layout=compact&count_private=true&show_icons=true&show_icons=true&langs_count=8&hide=javascript,html" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=naoyukifuruta&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
